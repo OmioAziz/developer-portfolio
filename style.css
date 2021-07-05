@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+h1{
+    font size:150px;
+}
+.orange{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 40%;
+    padding: 5%;
+}
+.half-width img{
+width: 95%;
+}
+.link-button{
+    text-decoration: none;
+    background-image:-o-linear-gradient(orange tomato);
+    padding:10PX 20px;
+    border-radius:5%;
+    font-weight:400;
+}
+#omio{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
